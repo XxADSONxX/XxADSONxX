@@ -1,4 +1,4 @@
-### Olá, eu sou o Adson Santana
+### Fala dev, tudo certo?! Eu sou o Adson Santana
 
 - 🔭 Eu estudo Front-end
 - 🌱 Estudando JavaScript
