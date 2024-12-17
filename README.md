@@ -1,8 +1,8 @@
 ### Fala dev, tudo certo?! Eu sou o Adson Santana
 
-- 🔭 Eu estudo Front-end
+- 🔭 Eu estudo Front e Back-end
 - 🌱 Estudando JavaScript
-- 🤔 Pronomes: ele/dele
+- 🌱 Estudando React-Native
 
 <div align="center">
   <a href="(https://github.com/XxADSONxX)">
